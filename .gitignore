@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 data
+simulator
 # C extensions
 *.so
 german-traffic-signs
